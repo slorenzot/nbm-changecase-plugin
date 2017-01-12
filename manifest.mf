@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: com.osm.netbeans.plugin
+OpenIDE-Module-Localizing-Bundle: com/osm/netbeans/plugin/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
