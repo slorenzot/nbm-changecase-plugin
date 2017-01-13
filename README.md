@@ -9,5 +9,5 @@ Steps:
 3. Click "Change Text to Uppercase" or "Change Text to Lowercase" and done.
 
 Result:
-[screenshot](screenshot.png)
+![screenshot](screenshot.png)
 
